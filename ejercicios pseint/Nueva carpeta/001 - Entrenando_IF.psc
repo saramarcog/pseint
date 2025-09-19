@@ -1,7 +1,7 @@
 Algoritmo Entrenando_IF
 	//1 OPTIMIZAR MEMORI
 	Definir edad Como Entero
-	//Dame un cajón en la memoria de 15 bytes
+	//Dame un cajï¿½n en la memoria de 15 bytes
 	//edad=exuhweqiwep
 	Escribir "Dime la edad que quieres comprobar"
 	Leer edad
@@ -12,3 +12,4 @@ Algoritmo Entrenando_IF
 		Escribir "Eres menor de edad"
 	Fin Si
 FinAlgoritmo
+//probar
